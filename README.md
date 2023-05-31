@@ -6,4 +6,4 @@
 ### About me
 Sou desenvolvedor Front-End há 2 anos, Adoro tecnologia desde a minha infância, após fazer um curso técnico de Análise e Desenvolvimento de Sistemas descobri a programação e com ela encontrei a possibilidade de transformar esta paixão em trabalho, desde então estudo diariamente para criar aplicações cada vez melhores.
 
-- [Website](https://gabriel-santos.vercel.app) 💻 - Meu Portfólio!
+- [Linkedin](https://bit.ly/gabriel-santos-linkedin) 💻 - Meu Linkedin!
