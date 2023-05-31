@@ -5,5 +5,3 @@
 
 ### Sobre mim
 Sou desenvolvedor Full Stack, Adoro tecnologia desde a minha infância, após fazer um curso técnico de Análise e Desenvolvimento de Sistemas descobri a programação e com ela encontrei a possibilidade de transformar esta paixão em trabalho, desde então estudo diariamente para criar aplicações cada vez melhores.
-
-- [Linkedin](https://bit.ly/gabriel-santos-linkedin) 💻 - Meu Linkedin!
