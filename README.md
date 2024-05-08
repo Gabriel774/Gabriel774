@@ -1,6 +1,5 @@
 # Olá, meu nome é Gabriel! :D
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gabriel774)](https://github.com/Gabriel774)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-santos-de-sousa-4b72aa208/)](https://www.linkedin.com/in/gabriel-santos-de-sousa-4b72aa208/)
 
 ### Sobre mim
